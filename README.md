@@ -1,2 +1,2 @@
-# Sushilgautam-tech Jupyter-Notebook
+# Sushil Jupyter-Notebook
 
